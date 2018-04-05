@@ -1,0 +1,8 @@
+pytest-allure-adaptor==1.7.7
+pytest-xdist==1.14
+requests==2.11.1
+WebTest==2.0.24
+WSGIProxy2==0.4.2
+psycopg2==2.6.2
+pytest==3.0.7
+Faker==0.8.10

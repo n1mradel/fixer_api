@@ -1,0 +1,7 @@
+# Allure
+allure-results/
+allure-report/
+
+# virtualenv
+venv/
+ENV/
